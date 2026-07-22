@@ -1,6 +1,6 @@
 # Hi!
 
-I'm an undergraduate student at UC San Diego
+I'm an undergraduate student at UC San Diego, currently working as a Machine Learning Engineer Intern.
 
 ### Current Focus (Interest-based, not professional)
 *   **3D Computer Graphics:** Exploring some rendering techniques
@@ -11,5 +11,3 @@ I'm an undergraduate student at UC San Diego
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-
