@@ -2,9 +2,6 @@
 
 I'm an undergraduate student at UC San Diego, currently working as a Machine Learning Engineer Intern.
 
-### Current Focus (Interest-based, not professional)
-*   **3D Computer Graphics:** Exploring some rendering techniques
-*   **Mech Interp:** Specifically analyzing how AI models behave
 
 ### 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
