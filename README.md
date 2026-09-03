@@ -1,6 +1,6 @@
 # Hi!
 
-I'm an undergraduate student at UC San Diego, currently working as a Machine Learning Engineer Intern.
+I'm an undergraduate student at UC San Diego.
 
 
 ### 
